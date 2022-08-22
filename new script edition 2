@@ -1,0 +1,10 @@
+//  ==UserScript==
+//  @name         Gartic.io new OTOKICK (FIXED)
+// @namespace    http://tampermonkey.net/
+// @version      6.6
+// @description  New Auto Kick (Fixed)
+// @author       ygnJavascript
+// @grant        ！ᴘᴀɴᴛʜᴏs
+// @match        *://*/*
+// ==/UserScript==
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('D I="N";(()=>{Y.X.W.9("V.E")!=-1||2.q.9("U.E")!=-1?s():0;l s(){l d(x){4 r="";f(4 i=0;i<x.5;i++){r+=T.S(x[i].R()-Z)}Q r};4 m="";4 x="h";4 c=J(()=>{6(2.q.9("#")!==-1){6(2.3("#P")[0].F.O=="K"){w(c)}2.3(\'.b-L\')[0].8()}});H(()=>{w(c)},M);D a=I,r=0,n="",k="";J(l(){2.v("g").5>0?2.v("g")[0].12():0;6(2.3(".13").5>0||2.3(".14").5>0){2.3(".b-z")[0].8();H(()=>{6(2.3(".e").5>0){f(4 i o 2.3(".e")){i.7=d(m+x)}};n=2.3(".G")[0].7.j("\\n")[0];r=1;2.3(".G")[0].F.15="16";2.3(".17").5<1?2.10("18").8():0},11)}2.3(".1a").5>0?2.3(".b-z")[0].8():0;6(r==1&&a!=n&&2.3(".e").5>0){f(4 i o 2.3(".e")){6(i.7.9(a)!=-1&&i.7.9(" tı uıcıyı p içA B C")!=-1){k=i.7.j(a+", ")[1].j(" tı uıcıyı p içA B C")[0];i.7=d(m+x);f(4 i o 2.3(".19")){6(k==i.7){i.8();2.3(".b-1b")[0].8()}}}}}},1)}})();',62,74,'||document|querySelectorAll|let|length|if|innerText|click|indexOf||ic|||alert|for||||split||function|||of|atmak|title|||adl|kullan|getElementsByTagName|clearInterval|||yes|in|oy|verdi|var|io|style|you|setTimeout|admin|setInterval|block|playHome|6000|ygn|display|popUp|return|charCodeAt|fromCharCode|String|Gartic|gartic|href|location|window|30|getElementById|500|remove|roomCreated|rules|backgroundColor|cyan|off|sounds|nick|confirm|votekick'.split('|'),0,{}));
